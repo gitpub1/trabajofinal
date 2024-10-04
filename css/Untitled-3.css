@@ -1,0 +1,48 @@
+html,body{height: 1500px;}
+
+
+
+.image1{width: 8%;padding-left: 100px;padding-top: 50px;opacity: 0.8;}
+
+.kpc{padding-left: 100px;font-size: 160px;font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;color: black;}
+
+.kpclarge{font-size: 80px;color:rgb(184, 107, 0);padding-left: 50px;}
+
+.menuop{position: absolute; padding-left:100px;width:80%; height: 100px;background-color: rgb(184, 107, 0);opacity: 0.3;}
+
+.menu{position: absolute; padding-top:27px ; padding-left: 60px ; width: 80%;height: 100px;justify-content:space-between;font-size: 35px;
+     display: flex;flex-direction: row;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; z-index: 3;}
+
+.enlaces{text-decoration: none;color: rgba(150, 103, 2, 0.623);}
+
+.description{position: absolute; padding-left: 50px; padding-top: 200px;text-align: center;width: 45%;}
+
+.image2{float: right;margin-right: 300px;margin-top: 230px;width:80%}
+
+.image3{float: right;margin-top: 600px;position: absolute;margin-left:1000px;}
+
+.testo1{text-align: left; letter-spacing: 4px;word-spacing: 5px;font-size: 15px;white-space: pre; font-family: Verdana, Geneva, Tahoma, sans-serif; display: flex; font-style: italic;}
+
+.footer{background-color: rgb(184, 104,0);width: 85%;height: 100px;  position:absolute;top: 1450px;display:flex;text-align: center;justify-content: center;}
+
+.fb{padding: 20px; width: 40px; }
+
+.ig{padding: 20px; width: 40px; }
+
+
+.boximg {background-color: rgb(150, 103, 2, 0.623); position:absolute;display: flex; width: 1200px;height: 1450px;opacity: 0.9;
+      margin: 200px;padding: 50px;justify-content: space-between;flex-direction: column;align-items: center; 
+       }
+
+.boximg p{color: black; font-size: 25px; font-family: 'Times New Roman', Times, serif;font-style: italic;}
+
+.boxpre {background-color: rgb(150, 103, 2, 0.623);width: 50%;height: 50%;padding-top:20px ; position: absolute;margin-top: 400px;margin-left: 400px;justify-content:baseline;
+     align-items: center; display: flex; flex-direction: column;
+     }
+
+.boximg2{background-color: rgb(150, 103, 2, 0.623);width: 50%;height: 50%;padding-top:40px ; position: absolute;margin-top: 250px;margin-left: 400px;height: 1000px;
+     text-align: center;align-items: center;justify-content: center;justify-items: center;font-style: italic;font-size: 50px;}
+
+     .imgpro{width: 30%;height: 30%;}
+
+
