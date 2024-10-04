@@ -17,7 +17,7 @@ html,body{height: 1500px;}
 
 .description{position: absolute; padding-left: 50px; padding-top: 200px;text-align: center;width: 45%;}
 
-.image2{float: right;margin-right: 300px;margin-top: 230px;width:80%}
+.image2{float: right;margin-right: 300px;margin-top: 230px;}
 
 .image3{float: right;margin-top: 600px;position: absolute;margin-left:1000px;}
 
